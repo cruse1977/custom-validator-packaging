@@ -7,7 +7,7 @@ This repo describes a quick process for packaging up NetBox Custom Validator cla
 * Clone the REPO
 
 ```python
-git clone https://github.com/cruse1977/custom-validator-packaging
+git clone https://github.com/cruse1977/netbox-validator-packaging
 ```
 
  * Create a python venv, activate and install build
@@ -42,4 +42,3 @@ CUSTOM_VALIDATORS = {
 ```
 
  The repo contains a working example. 
- 

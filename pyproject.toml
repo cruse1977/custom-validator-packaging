@@ -7,7 +7,7 @@ packages = ["custom_validation"]
 package-data = {"custom_validation" = ["**/*"]}
 
 [project]
-name = "netbox-custom-validation"
+name = "netbox-validator-packaging"
 version = "1.0.0"
 readme = "README.md"
 license = {file = "LICENSE"}
