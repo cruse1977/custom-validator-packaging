@@ -1,0 +1,14 @@
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools]
+packages = ["custom_validation"]
+package-data = {"custom_validation" = ["**/*"]}
+
+[project]
+name = "netbox-custom-validation"
+version = "1.0.0"
+readme = "README.md"
+license = {file = "LICENSE"}
+
