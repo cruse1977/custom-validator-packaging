@@ -37,5 +37,9 @@ git clone https://github.com/cruse1977/custom-validator-packaging
 CUSTOM_VALIDATORS = {
     'dcim.site': (
         YourClass(),
-        Validator2(),
+    )
+}
 ```
+
+ The repo contains a working example. 
+ 
